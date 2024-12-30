@@ -31,6 +31,8 @@ Home Page: A welcoming page that introduces you, highlights your skills, and pro
 Projects Section: A dedicated area to showcase your projects, including descriptions, links, and images.
 Blog Section: A blog feature where you can create, read, update, and delete posts. Each post will include a title, content, and date.
 
+Install node_modules in your project folder
+
 # Structure
 personal-portfolio/
 ├── backend/
